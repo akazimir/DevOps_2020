@@ -4,7 +4,7 @@ toto je popis mojho projectu
 
 ## popis
 
-prvy project na skoleny GIT
+prvy project na skoleni GIT
 
 
 
