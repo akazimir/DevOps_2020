@@ -15,8 +15,11 @@ Vymazala som zopar riadkov.
 a nieco aj pridala:
 
 **Zelenina** - je vraj dobra ;-)
+
 **Ovocie** - je zvacsa sladke!
+
 **Sladkosti** - chutia sladko.
+
 **Chipsy** su slane. 
 
 
