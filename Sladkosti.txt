@@ -2,4 +2,5 @@ cokolada
 cukriky
 lizanky
 keksiky
+kolace
 
