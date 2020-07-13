@@ -14,9 +14,10 @@ prvy project na skoleny GIT
 Vymazala som zopar riadkov.
 a nieco aj pridala:
 
-Zelenina**is**bold
-Ovocie - je zvacsa sladke!
-
+**Zelenina** - je vraj dobra ;-)
+**Ovocie** - je zvacsa sladke!
+**Sladkosti** - chutia sladko.
+**Chipsy** su slane. 
 
 
 ## Edit a file
