@@ -14,7 +14,8 @@ prvy project na skoleny GIT
 Vymazala som zopar riadkov.
 a nieco aj pridala:
 
-Love**is**bold
+Zelenina**is**bold
+Ovocie - je zvacsa sladke!
 
 
 
