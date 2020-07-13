@@ -2,3 +2,5 @@ hrusky
 jablka
 ceresne
 hrozno
+maliny
+jahody
