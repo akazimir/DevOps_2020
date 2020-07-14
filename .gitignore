@@ -1,6 +1,6 @@
 *.exe
 *.bin
-*/*output*/*
-*/*temp*/*
+*/*output*
+*/*temp*
 ./dir/mydir/*
 */*temporary
